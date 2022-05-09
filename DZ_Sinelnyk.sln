@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DZ_Sinelnyk", "DZ_Sinelnyk\DZ_Sinelnyk.vcxproj", "{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Debug|x64.ActiveCfg = Debug|x64
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Debug|x64.Build.0 = Debug|x64
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Debug|x86.Build.0 = Debug|Win32
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Release|x64.ActiveCfg = Release|x64
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Release|x64.Build.0 = Release|x64
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Release|x86.ActiveCfg = Release|Win32
+		{8DA389A4-3A92-46C3-A076-74C2F4C5FDFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FA8A0A-A8B6-4CD3-B2BA-902E2C7868B8}
+	EndGlobalSection
+EndGlobal
