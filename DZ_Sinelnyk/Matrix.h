@@ -5,7 +5,7 @@
 #include <random>
 #include <algorithm>
 #include <iomanip>
-#include <ranges>
+#include <stdexcept>
 
 class Matrix {
 public:

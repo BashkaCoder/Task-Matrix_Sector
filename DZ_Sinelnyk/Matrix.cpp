@@ -1,7 +1,4 @@
-#include <stdexcept>
 #include "Matrix.h"
-
-#include <ranges>
 
 Matrix::Matrix() : 
 	rows(0), columns(0), data(0) 
